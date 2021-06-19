@@ -1,2 +1,3 @@
-# demoweb
-database demo with php
+# DemoWeb
+
+This is simplest web demo with HTML, CSS, PHP and MYSql server
